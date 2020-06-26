@@ -46,4 +46,4 @@ Raspbian v4.19 (https://www.raspberrypi.org/downloads/raspbian/) was installed u
 
 # Results
 <img src="/readme_images/Table1.png" alt="Table1" width="800"/>
-<img src="/readme_images/Table2.png" alt="Table2" width="400"/>
+<img src="/readme_images/Table2.png" alt="Table2" width="300"/>
