@@ -45,5 +45,5 @@ Raspbian v4.19 (https://www.raspberrypi.org/downloads/raspbian/) was installed u
 <img src="/readme_images/circuit_PNG.png" alt="circuit_PNT" width="500"/>
 
 # Results
-<img src="/readme_images/Table1.png" alt="Table1" width="1000"/>
-<img src="/readme_images/Table2.png" alt="Table2" width="500"/>
+<img src="/readme_images/Table1.png" alt="Table1" width="800"/>
+<img src="/readme_images/Table2.png" alt="Table2" width="400"/>
