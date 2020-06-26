@@ -10,7 +10,7 @@ Results: Here we introduce SNAILS (small nucleic acid instrument for long sequen
 
 Conclusions: SNAILS is the first improvement to ultra-long read retention through the process of library preparation. 
 
-<img src="/readme_images/F1_V2b_PNG.png" alt="F1_V2b_PNG" width="750"/>
+<img src="/readme_images/F1_V2b_PNG.pn" alt="F1_V2b_PNG" width="750"/>
 
 # Printing Instructions
 We used Ultimaker 3, S3, and S5 3D printers with the Ultimaker Cura program (https://ultimaker.com/software/ultimaker-cura). We recommend PLA for the printing material with the point set to 0.2 mm and infill at 20% for all the pieces. For the base, motor holder, and bridge, support material needs to be included, and changing the support density to 25 for a smoother print job is recommended. Additionally, we recommend that the base is printed on a separate build plate than the other pieces because it is so much thinner and by separating the pieces you increase the chances of a successful print job. More detailed, step-by-step printing instructions are directly below.
@@ -42,4 +42,4 @@ Once the 3D printing is complete, all of the support material must be removed an
 
 # Circuitry
 Raspbian v4.19 (https://www.raspberrypi.org/downloads/raspbian/) was installed using NOOBS v3.3.1 (https://www.raspberrypi.org/downloads/noobs/) to a 32 GB micro sd card and booted on a Raspberry Pi (rpi) model 3B+. Electronic components were assembled into a solderless circuit as depicted in Figure 1C. Briefly, the rpi GPIO pins 23,24, 25, and ground pin 6 were connected to IN1, IN2, ENA, and GND terminals of the L298N motor driver board (https://www.sunfounder.com/product-l298n-motor-driver-board-module.html), respectively. The positive and negative leads of a 12V DC power supply were connected to the 12V and GND terminals of the L298N motor driver, respectively. Finally, the two terminals of a 12V DC planetary motor ((https://www.servocity.com/12-rpm-hd-premium-planetary-gear-motor) were connected to the OUT1 and OUT2 terminals of the L298N motor driver.
-<img src="/readme_images/circuit_PNG.png" alt="circuit_PNT" width="500"/>
+<img src="/readme_images/circuit_PNG.pn" alt="circuit_PNT" width="500"/>
