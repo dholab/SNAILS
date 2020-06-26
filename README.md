@@ -41,3 +41,4 @@ We used Ultimaker 3, S3, and S5 3D printers with the Ultimaker Cura program (htt
 Once the 3D printing is complete, all of the support material must be removed and all of the pieces should be able to snap together. Due to the margin or error from an Ultimaker, it possible some of the pieces will need to be slightly shaved down with a dremel to fully remove the border support material. Regardless, the pieces intentionally are designed to fit tightly together to avoid moving while running so light taps from a mallet may help to make the joints fully flush.
 
 # Circuitry
+![circuit_PNG](/readme_images/circuit_PNG)
