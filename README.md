@@ -10,7 +10,7 @@ Results: Here we introduce SNAILS (small nucleic acid instrument for long sequen
 
 Conclusions: SNAILS is the first improvement to ultra-long read retention through the process of library preparation. 
 
-![F1_V2b_PNG](/readme_images/F1_V2b_PNG.png 250x250)
+![F1_V2b_PNG](/readme_images/F1_V2b_PNG.png|width=50%)
 
 # Printing Instructions
 We used Ultimaker 3, S3, and S5 3D printers with the Ultimaker Cura program (https://ultimaker.com/software/ultimaker-cura). We recommend PLA for the printing material with the point set to 0.2 mm and infill at 20% for all the pieces. For the base, motor holder, and bridge, support material needs to be included, and changing the support density to 25 for a smoother print job is recommended. Additionally, we recommend that the base is printed on a separate build plate than the other pieces because it is so much thinner and by separating the pieces you increase the chances of a successful print job. More detailed, step-by-step printing instructions are directly below.
