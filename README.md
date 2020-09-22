@@ -3,7 +3,7 @@ Slow Nucleic Acid Instrument for Long Sequences
 
 SNAILS was created by Trent Prall and Emma Neumann. Its purpose is to improve ultralong read sequencing library preparation by reducing DNA shearing due to pipetting. 
 
-prepring: https://www.biorxiv.org/content/10.1101/2020.09.18.302471v1
+preprint: https://www.biorxiv.org/content/10.1101/2020.09.18.302471v1
 
 **NOTE** we are currently preparing an assembly video for interested parties, please follow this repository for updates
 
