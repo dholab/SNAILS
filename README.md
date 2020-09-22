@@ -2,6 +2,7 @@
 Slow Nucleic Acid Instrument for Long Sequences
 
 SNAILS is a 3D printed liquid handling robot. Its purpose is to improve ultralong genomic reads by reducing shearing due to pipetting. 
+
 **NOTE** we are currently preparing an assembly video for interested parties, please follow this repository for updates
 
 # Abstract
