@@ -2,6 +2,7 @@
 Slow Nucleic Acid Instrument for Long Sequences
 
 SNAILS is a 3D printed liquid handling robot. Its purpose is to improve ultralong genomic reads by reducing shearing due to pipetting. 
+**NOTE** we are currently preparing an assembly video for interested parties, please follow this repository for updates
 
 # Abstract
 **Background** Oxford Nanopore Technologies’ instruments can sequence reads of great length. Long reads improve sequence assemblies by unambiguously spanning repetitive elements of the genome. Sequencing reads of significant length requires the preservation of long DNA template molecules through library preparation by pipetting reagents as slowly as possible in order to minimizing shearing. This process is time consuming and inconsistent at preserving read length as even small changes in volumetric flow rate can result in template shearing.
