@@ -1,7 +1,7 @@
 # SNAILS v1.0
 Slow Nucleic Acid Instrument for Long Sequences
 
-SNAILS is a 3D printed liquid handling robot. It was created by Trent Prall and Emma Neumann to improve ultralong read sequencing projects by reducing shearing due to pipetting. 
+SNAILS was created Trent Prall and Emma Neumann. Its purpose is to improve ultralong read sequencing library preparation by reducing shearing due to pipetting. 
 
 **NOTE** we are currently preparing an assembly video for interested parties, please follow this repository for updates
 
