@@ -14,6 +14,8 @@ SNAILS was created Trent Prall and Emma Neumann. Its purpose is to improve ultra
 
 <img src="/readme_images/F1_V2b_PNG.png" alt="F1_V2b_PNG" width="750"/>
 
+# Parts List
+<img src="https://github.com/dholab/SNAILS/blob/master/readme_images/Parts%20list.pdf" width="750"/>
 # Printing Instructions
 We used Ultimaker 3, S3, and S5 3D printers with the Ultimaker Cura program (https://ultimaker.com/software/ultimaker-cura). We recommend PLA for the printing material with the point set to 0.2 mm and infill at 20% for all the pieces. For the base, motor holder, and bridge, support material needs to be included, and changing the support density to 25 for a smoother print job is recommended. Additionally, we recommend that the base is printed on a separate build plate than the other pieces because it is so much thinner and by separating the pieces you increase the chances of a successful print job. More detailed, step-by-step printing instructions are directly below.
 
