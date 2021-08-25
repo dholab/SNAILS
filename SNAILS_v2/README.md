@@ -7,4 +7,5 @@ There is less 3D printing required for this design and fewer parts. There is als
 
 # Circuitry
 The circuitry is also more efficient and uses a Raspbery Pi Zero.
+
 <img src="/readme_images/ReP_circuit.jpeg" width="500"/>
