@@ -7,4 +7,4 @@ There is less 3D printing required for this design and fewer parts. There is als
 
 # Circuitry
 The circuitry is also more efficient and uses a Raspbery Pi Zero.
-https://github.com/dholab/SNAILS/blob/master/readme_images/ReP_circuit.jpeg
+<img src="/readme_images/ReP_circuit.jpeg" width="1000"/>
