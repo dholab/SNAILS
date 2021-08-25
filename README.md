@@ -8,7 +8,7 @@ SNAILS was created by Trent Prall and Emma Neumann. Its purpose is to improve ul
 
 preprint: https://www.biorxiv.org/content/10.1101/2020.09.18.302471v1
 
-**NOTE** we are currently preparing an assembly video for interested parties, please follow this repository for updates
+SNAILS v1.0 assembly video: https://youtu.be/rlQ-tXXK3FM
 
 <img src="/readme_images/SNAILS.png" width="1000"/>
 
