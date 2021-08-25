@@ -1,3 +1,6 @@
+# SNAILS v2.0
+Since purblishing, we have created a new version that is more mobile, efficient, and adaptable. This design also works with the more-common, upright Eppendorf pipette rather than the self-standing Ovation pipette. Please navigate to the SNAILS v2.0 folder for the design.
+
 # SNAILS v1.0
 Slow Nucleic Acid Instrument for Long Sequences
 
